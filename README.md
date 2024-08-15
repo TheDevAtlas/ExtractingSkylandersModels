@@ -6,6 +6,17 @@
 
 Skylanders Test Unity Project: - https://github.com/TheDevAtlas/SkylandersUnityGame
 
+Massive thank you to
+-Nefarious Tech Support
+-🥕JesseLostIslands🥕
+-Shōjiki
+-Decorous (maff)
+
+Skylanders Reverse Engineering Discord Server:
+https://discord.gg/evFbgBpmMf
+
+Output Path: "$inpath$\$outext$\$inname$.$outext$"
+
 Tools / How-to
 
 Dotnet 6
