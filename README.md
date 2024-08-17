@@ -4,8 +4,6 @@
 
 ---
 
-Skylanders Test Unity Project: - https://github.com/TheDevAtlas/SkylandersUnityGame
-
 Massive thank you to
 -Nefarious Tech Support
 -🥕JesseLostIslands🥕
